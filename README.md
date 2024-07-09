@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.sevenpercentmore.online">Portfolio</a> | 
+  <a href="https://www.sevenpercentmore.online">Portfolio</a> | 
   <a href="https://independent.academia.edu/JLFO">Academia</a> |
   <a href="https://linkedin.com/in/aikoz">LinkedIn</a>
 </p>
