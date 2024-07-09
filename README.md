@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/1MfwVkV/Linkedd-In-cover-1.png](https://www.linkedin.com/in/aikoz/overlay/background-image/)" width="100%" />  
+  <img src="https://www.linkedin.com/in/aikoz/overlay/background-image/" width="100%" />  
   <h1 align="center"><a href="www.sevenpercentmore.online">I'm Jose Luis Florencio Ortiz</a></h1>
   <p align="center"> Senior Systems Analyst with a focus on mobile applications, Swift application developer expert </p>
 </p>
