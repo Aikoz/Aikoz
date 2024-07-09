@@ -12,7 +12,7 @@
 
 <br />
 
-📫 You can reach me at hellocodewonders@gmail.com.
+📫 You can reach me at aikoz@live.com.
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about anything and everything around swift.
