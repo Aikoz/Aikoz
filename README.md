@@ -12,7 +12,7 @@
 <br />
 
 📫 You can reach me at aikoz@live.com.
-
+- ⚡take a look on my work`s git <a href="https://github.com/Jose-PA9">account</a>. 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about anything and everything around swift.
 
