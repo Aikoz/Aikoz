@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E16AQGvcGnYiLX1Qw/profile-displaybackgroundimage-shrink_350_1400/0/1720556419269?e=1726099200&v=beta&t=Eem-__kC6d85kx2K_aamyigx8UHV7ZauyAbyUx9e1PQ" width="100%" />  
+  <img src="https://media.licdn.com/dms/image/D5616AQF_vQrzpDKoWQ/profile-displaybackgroundimage-shrink_350_1400/0/1720604737295?e=1726099200&v=beta&t=USmuPDj0qqP23dDiPTpziETarFUc-JcLRgAOygXeXtA" width="100%" />  
   <h1 align="center"><a href="www.sevenpercentmore.online">I'm Jose Luis Florencio Ortiz</a></h1>
   <p align="center"> Senior Systems Analyst with a focus on mobile applications, Swift application developer expert </p>
 </p>
