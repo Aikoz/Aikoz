@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQF_vQrzpDKoWQ/profile-displaybackgroundimage-shrink_350_1400/0/1720604737295?e=1726099200&v=beta&t=USmuPDj0qqP23dDiPTpziETarFUc-JcLRgAOygXeXtA" width="100%" />  
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQF_vQrzpDKoWQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720604737295?e=1732752000&v=beta&t=o6XwisMPXAg7hObBaGh3RyVYwriqk7zY7jOOi4vvNqI" width="100%" />  
   <p align="center"> Senior Systems Analyst with a focus on mobile applications, Swift application developer expert </p>
 </p>
 
